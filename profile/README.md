@@ -16,7 +16,7 @@ We use modern technologies to build a robust, scalable, and high-performance pla
 
 - **Frontend**: React, Next.js, TypeScript, Radix, Materi UI
 - **Backend**: Node.js, Nest.js, MongoDB, PostgreSQL, Redis
-- **Infrastructure**: Docker, Kubernetes, AWS, Hamravesh Cloud, Abr Arvan CDN
+- **Infrastructure**: Docker, Kubernetes, Hamravesh Cloud, Abr Arvan CDN
 - **AI & ML**: Python, Machine Learning Models for Personalized Travel Planning
 - **Security**: Secure API Integrations and Secure Monitoring
 
